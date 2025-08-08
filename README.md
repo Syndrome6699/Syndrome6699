@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer | Tech Enthusiast | Developer Advocate<br><br>I am Adeshina Abdulmuiz, Known as Syndrome. I am a passionate Software Engineer with a strong foundation in various programming languages and modern web technologies. My expertise spans across Python, C, JavaScript, and scripting languages such as Batch Script and Visual Basic Script. I am also proficient in front-end frameworks, including React.js, Next.js, Angular, and Vue.js.<br><br>With a deep interest in both technology and developer communities, I continuously strive to learn, innovate, and contribute to the evolving landscape of software development.
+Software Engineer | Tech Enthusiast | Developer Advocate<br><br> I am a passionate Software Engineer with a strong foundation in various programming languages and modern web technologies. My expertise spans across Python, C, JavaScript, and scripting languages such as Batch Script and Visual Basic Script. I am also proficient in front-end frameworks, including React.js, Next.js, Angular, and Vue.js.<br><br>With a deep interest in both technology and developer communities, I continuously strive to learn, innovate, and contribute to the evolving landscape of software development.
 
 
 ## 🌐 Socials:
